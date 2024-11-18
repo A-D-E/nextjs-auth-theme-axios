@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "mail": "E-Mail",
+    "password": "Passwort",
+    "name": "Name",
+    "logout": "Abmelden",
+    "loginSuccess": "Erfolgreich angemeldet!",
+    "registerSuccess": "Erfolgreich registriert!"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "profile": "Profil",
+    "settings": "Einstellungen"
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System"
+  }
+}
